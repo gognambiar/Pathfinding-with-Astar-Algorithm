@@ -1,0 +1,3 @@
+Implementation of Astar algorithm to find the shortest path from current detination to goal.
+
+Implemented in C++
